@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dave Jr.</h1>
 <h3 align="center">A passionate computer science student from Texas</h3>
 
@@ -7,7 +5,6 @@
 
 - 🌱 I’m currently learning **NextJs, React, Node, and CSS**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
