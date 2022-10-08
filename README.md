@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave Jr.</h1>
 <h3 align="center">A passionate computer science student from Texas</h3>
 
-- 🔭 I’m currently working on [PortfolioV1](https://www.daveaigbe.live/)
+- 🔭 I’m currently working on [PortfolioV1](https://www.daveaigbe.live/) and [Smart Library](https://smart-library-seven.vercel.app/)
 
 - 🌱 I’m currently learning **NextJs, React, Node, and CSS**
 
