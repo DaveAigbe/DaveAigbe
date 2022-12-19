@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PortfolioV1](https://www.daveaigbe.live/) and [Smart Library](https://smart-library-seven.vercel.app/)
 
-- 🌱 I’m currently learning **NextJs, React, Node, and CSS**
+- 🌱 I’m currently learning **React, Node, Typescript, and CSS**
 
 - 📫 How to reach me **davesprogrammingcs@gmail.com**
 
