@@ -10,8 +10,8 @@
 <hr>
 
 <h4>🔭  I’m currently working on ...</h4>
-[Smart Library](https://smart-library-ts.vercel.app/)
-[This is an external link to genome.gov](https://www.genome.gov/)
+- <a href="https://smart-library-ts.vercel.app">Smart Library</a>
+
 
 <hr>
 
