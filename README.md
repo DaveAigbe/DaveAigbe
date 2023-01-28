@@ -46,7 +46,6 @@
 <hr>
 
 <div align="center">
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daveaigbe&show_icons=true&theme=react&locale=en" alt="daveaigbe" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=daveaigbe&show_icons=true&theme=react&locale=en" alt="daveaigbe" /></p>
 </div>
 
