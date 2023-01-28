@@ -2,7 +2,7 @@
 <h3 align="center">A computer science student from Dallas, Texas</h3>
 
 <p align='center'>
-  <a href="https://daveaigbe.live">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://daveaigbe.live"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:davesprogrammingcs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
