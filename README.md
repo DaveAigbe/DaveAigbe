@@ -10,7 +10,7 @@
 <hr>
 
 <h4>🔭  I’m currently working on ...</h4>
-- [Smart Library](https://smart-library-ts.vercel.app/)
+[Smart Library](https://smart-library-ts.vercel.app/)
 
 <hr>
 
