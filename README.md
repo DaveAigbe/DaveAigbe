@@ -10,10 +10,8 @@
 <hr>
 
 <h4>🔭  I’m currently working on ...</h4>
-<p>
 [Smart Library](https://smart-library-ts.vercel.app/)
 [This is an external link to genome.gov](https://www.genome.gov/)
-</p>
 
 <hr>
 
